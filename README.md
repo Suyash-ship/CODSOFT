@@ -17,7 +17,7 @@ Welcome to the **CODSOFT** repository, which contains a collection of beginner-t
 This project uses the famous **Titanic dataset** to predict whether a passenger survived or not based on features like age, gender, ticket class, etc.
 
 ### Files:
-- `titanic_model.py`: Code to preprocess the Titanic dataset and build a machine learning model (Random Forest) to predict survival.
+- `titanic_survival.py`: Code to preprocess the Titanic dataset and build a machine learning model (Random Forest) to predict survival.
 - `Titanic-Dataset.csv`: Dataset containing information about passengers on the Titanic.
 
 ### Steps:
@@ -36,7 +36,7 @@ This project uses the famous **Titanic dataset** to predict whether a passenger 
 This project focuses on predicting movie ratings using features like genre, director, and actors. It employs regression techniques to estimate user or critic ratings for movies.
 
 ### Files:
-- `movie_rating_prediction.py`: Code to preprocess movie data, encode categorical features, and train a machine learning model using Random Forest Regressor.
+- `movie_prediction.py`: Code to preprocess movie data, encode categorical features, and train a machine learning model using Random Forest Regressor.
 - `IMDb Movies India.csv`: Dataset containing historical movie information such as genres, directors, actors, and ratings.
 
 ### Steps:
